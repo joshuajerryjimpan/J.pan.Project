@@ -1,16 +1,16 @@
-com/jpan/stud/Student.java
- com.jpan.stud.Student
 com/jpan/person/HelloPeople.java
  com.jpan.person.HelloPeople
+com/jpan/stud/Student.java
+ com.jpan.stud.Student
 com/jpan/cust/Test2.java
  com.jpan.cust.Test2
 com/jpan/cust/VipCustomer.java
  com.jpan.cust.VipCustomer
-com/jpan/person/HelloWorld.java
- com.jpan.person.HelloWorld
+com/jpan/cust/Customer.java
+ com.jpan.cust.Customer
 com/jpan/stud/Test1.java
  com.jpan.stud.Test1
 com/jpan/stud/GrduateStudent.java
  com.jpan.stud.GrduateStudent
-com/jpan/cust/Customer.java
- com.jpan.cust.Customer
+com/jpan/person/HelloWorld.java
+ com.jpan.person.HelloWorld
